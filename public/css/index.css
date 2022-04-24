@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+
+}
+table {
+    border: 2px solid grey;
+    background-color: grey;
+}
+table th {
+    font-family: 'Segoe UI';
+    padding-right: 50px;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+#table-image {
+    color: black;
+    font-family: sans-serif;
+}
+#table-button1 {
+    color: black;
+    font-family: sans-serif;
+}
